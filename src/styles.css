@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+body .header-azul .ui-panel .ui-panel-titlebar {
+    background-color: #1589e6;
+    color: #ffffff;
+}
+
+@media (min-width: 600px) {
+    div .chk-margin {
+        padding-top: 30px;
+    }
+}
+
+@media (min-width: 1200px){
+    .container {
+        width: 1170px;
+        margin: 0 auto;
+    }
+}
